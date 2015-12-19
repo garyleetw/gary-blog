@@ -1,0 +1,24 @@
+{
+  "name": "gary-blog",
+  "version": "1.0.0",
+  "description": "Gary Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyleetw/gary-blog.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Blog",
+    "Javascript"
+  ],
+  "author": "Gary Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garyleetw/gary-blog/issues"
+  },
+  "homepage": "https://github.com/garyleetw/gary-blog#readme"
+}
